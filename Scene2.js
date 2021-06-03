@@ -52,6 +52,7 @@ class Scene2 extends Phaser.Scene {
             this.shiningStars.alpha = 0.5;
             this.shiningStars.play('shine_landscape')
         }
+
     }
 }
 
